@@ -35,7 +35,7 @@ If everything was successful, you can run the program and hope that everything w
 - Increase/decrease the noise reduction level or volume division value
 
 **Change the values in the frequency.py file**
-- Change the values of the variables (in lines 12-14) so that they work well with your microphone
+- Change the values of the variables (in lines 16-18) so that they work well with your microphone
 
 **Improve microphone quality**
 - Improve the quality of your microphone (for example: use audio enhancement software)
